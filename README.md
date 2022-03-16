@@ -1,6 +1,6 @@
-# Egg-Recipe
+# Nelsin-Receitas
 
-This project will address one of my favorite recipes, Egg with Fried Rice.
+This project will address one of my many favorite recipes.
 
 As of today (March, 16th. 2022) the following project is my first 
 real one and will have my updates and upgrades to it. Because of this
